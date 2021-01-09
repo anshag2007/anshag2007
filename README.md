@@ -2,6 +2,9 @@
 ### Hi there, Its me! Ansh Agarwal 😁😁
 ### I am an amateur bot developer from India making bots from months.
 ### Introduction 🌠 
+- 🙂 I am from India.
+- 👨 I am a Student.
+- ☺ I am 13 years old.
 - 😃 I've made over 10+ cool bots.
 - 😍 I love making unique bots.
 - 😎 I use both [discord.py](https://discordpy.readthedocs.io/en/latest/) & [discord.js](https://discord.js.org).
