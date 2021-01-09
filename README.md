@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### Its me! Ansh Agarwal 😁
+### Hi there, Its me! Ansh Agarwal 😁
 ### I am an amateur bot developer from India making bots from months...
 ### Introduction 🌠
 - 😃 I've made over 10+ cool bots...
