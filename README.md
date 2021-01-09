@@ -12,3 +12,13 @@
 - 🤖 I’m looking to collaborate on bot projects.
 - 🤔 I’m looking for help with [discord.py](https://discordpy.readthedocs.io/en/latest/) music bots.
 - 💬 Ask me or take help from me about discord bots.
+
+### My Stats📊
+
+- **GitHub Stats**
+
+[![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=AnshAg2007&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+- **Top Used Languages**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAg2007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
