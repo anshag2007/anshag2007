@@ -25,11 +25,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAg2007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Top Projects ⛤
-- [**The One**](https://github.com/AnshAg2007/the-one-discord-bot) (Python,Private,Completed) - A Mutliporpose Bot Of CyberEfficient for a client in which I've contributed.
-- [**Ziox's Bot**](https://github.com/AnshAg2007/Ziox-s-Bot) (Python,Private,Still Working On) - A Custom Bot For Of Cyberefficient for a client which I've been working on.
-- [**KatanaBot**](https://github.com/AnshAg2007/katana-bot) (Python,Public,Discontinued) - A Simple Utility And Moderation Bot.
-- [**HexaverseBot**](https://github.com/AnshAg2007/hexaverse-bot) (JavaScript,Private,Completed) - A Custom Bot for a client.
-- [**Cosmic Bot**](https://github.com/AnshAg2007/cosmic_adv_bot_b2) (JavaScript,Private,Discontinued) - A Custom Bot for a client.
+- 🤖 [**The One**](https://github.com/AnshAg2007/the-one-discord-bot) (Python,Private,Completed) - A Mutliporpose Bot Of CyberEfficient for a client in which I've contributed.
+- 🤖 [**Ziox's Bot**](https://github.com/AnshAg2007/Ziox-s-Bot) (Python,Private,Still Working On) - A Custom Bot For Of Cyberefficient for a client which I've been working on.
+- 🤖 [**KatanaBot**](https://github.com/AnshAg2007/katana-bot) (Python,Public,Discontinued) - A Simple Utility And Moderation Bot.
+- 🤖 [**HexaverseBot**](https://github.com/AnshAg2007/hexaverse-bot) (JavaScript,Private,Completed) - A Custom Bot for a client.
+- 🤖 [**Cosmic Bot**](https://github.com/AnshAg2007/cosmic_adv_bot_b2) (JavaScript,Private,Discontinued) - A Custom Bot for a client.
 
 ### Contact Me📞
 - 👤Discord Username > [**AnshAgarwal#1020**](https://dsc.bio/anshagarwal)
