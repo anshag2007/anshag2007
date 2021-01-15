@@ -27,7 +27,7 @@
 ### My Top Projects ⛤
 - 🤖 [**The One**](https://github.com/AnshAg2007/the-one-discord-bot) (_Python,Private,Completed_) - A Mutliporpose Bot from CyberEfficient for a client in which I've contributed.
 - 🤖 [**Ziox's Bot**](https://github.com/AnshAg2007/Ziox-s-Bot) (_Python,Private,Still Working On_) - A Custom Bot from Cyberefficient for a client which I've been working on.
-- 🤖 [**KatanaBot**](https://github.com/AnshAg2007/katana-bot) (_Python,Public,Discontinued_) - A Simple Utility And Moderation Bot.
+- 🤖 [**KatanaBot**](https://github.com/AnshAg2007/katana-bot) (_Python,Public,Completed_) - A Simple Utility And Moderation Bot.
 - 🤖 [**HexaverseBot**](https://github.com/AnshAg2007/hexaverse-bot) (_JavaScript,Private,Completed_) - A Custom Bot for a client.
 - 🤖 [**Cosmic Bot**](https://github.com/AnshAg2007/cosmic_adv_bot_b2) (_JavaScript,Private,Discontinued_) - A Custom Bot for a client.
 
