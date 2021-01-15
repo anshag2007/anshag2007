@@ -16,11 +16,11 @@
 
 ### My Stats📊
 
-- 📈**GitHub Stats**
+- 📈 **GitHub Stats**
 
 [![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=AnshAg2007&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⌨**Most Used Languages**
+- 🖊 **Most Used Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAg2007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
