@@ -29,7 +29,7 @@
 - [**Ziox's Bot**](https://github.com/AnshAg2007/Ziox-s-Bot) (Python,Private,Still Working On) - A Custom Bot For Of Cyberefficient for a client which I've been working on.
 - [**KatanaBot**](https://github.com/AnshAg2007/katana-bot) (Python,Public,Discontinued) - A Simple Utility And Moderation Bot.
 - [**HexaverseBot**](https://github.com/AnshAg2007/hexaverse-bot) (JavaScript,Private,Completed) - A Custom Bot for a client.
-- [**Cosmic Bot**](https://github.com/AnshAg2007/cosmic-adv-bot-b2) (JavaScript,Private,Discontinued) - A Custom Bot for a client.
+- [**Cosmic Bot**](https://github.com/AnshAg2007/cosmic_adv_bot_b2) (JavaScript,Private,Discontinued) - A Custom Bot for a client.
 
 ### Contact Me📞
 - 👤Discord Username > [**AnshAgarwal#1020**](https://dsc.bio/anshagarwal)
