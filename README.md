@@ -18,11 +18,11 @@
 
 - 📈 **GitHub Stats**
 
-[![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=AnshAg2007&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=AnshAg2007&theme=radical=128x256)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🖊 **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAg2007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAg2007&layout=compact&theme=radical=128x256)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Top Projects ⛤
 - 🤖 [**SlashCommando**](https://github.com/AnshAg2007/slash-commando) (_Python,Public,Still Working On_) - An Open-Source Slash Commands bot by me.
