@@ -25,6 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAg2007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Top Projects ⛤
+- 🤖 [**SlashCommando**](https://github.com/AnshAg2007/slash-commando) (_Python,Public,Still Working On__) - An Open-Source Slash Commands bot by me.
 - 🤖 [**The One**](https://github.com/AnshAg2007/the-one-discord-bot) (_Python,Private,Completed_) - A Mutliporpose Bot from CyberEfficient for a client in which I've contributed.
 - 🤖 [**Ziox's Bot**](https://github.com/AnshAg2007/Ziox-s-Bot) (_Python,Private,Still Working On_) - A Custom Bot from Cyberefficient for a client which I've been working on.
 - 🤖 [**KatanaBot**](https://github.com/AnshAg2007/katana-bot) (_Python,Public,Completed_) - A Simple Utility And Moderation Bot.
