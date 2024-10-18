@@ -1,1 +1,1 @@
-On an indefinite haitu, only doing personal projects ATM
+On indefinite haitus, only doing personal projects ATM
